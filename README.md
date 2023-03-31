@@ -2,7 +2,9 @@
 
 # Analyzing scores and developing model to predict math score
 
-Notebook project can be seen on <b>aria_prediction.ipynb</b> file, and for testing using inference data can be seen on <b>inference_test.ipynb</b> file.
+Analysis of the dataset that contains Physics, Science, Statistics, and Math scores. And developing model to predict Math scores based on Physics, Science, and Statistics score.
+
+Notebook project can be seen on <b>notebook.ipynb</b> file, and for testing using inference data can be seen on <b>inference.ipynb</b> file.
 
 The python and library version used in this project are:
 <ul>
