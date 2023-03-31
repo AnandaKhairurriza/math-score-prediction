@@ -4,7 +4,7 @@
 
 Analysis of the dataset that contains Physics, Science, Statistics, and Math scores. And developing model to predict Math scores based on Physics, Science, and Statistics score.
 
-Notebook project can be seen on <b>notebook.ipynb</b> file, and for testing using inference data can be seen on <b>inference.ipynb</b> file.
+Notebook project can be seen in <b>notebook.ipynb</b> file, and for testing using inference data can be seen in <b>inference.ipynb</b> file.
 
 The python and library version used in this project are:
 <ul>
