@@ -1,6 +1,4 @@
-# math-score-prediction
-
-# Analyzing scores and developing model to predict math score
+# Score analyzing and developing model to predict the math scores.
 
 Analysis of the dataset that contains Physics, Science, Statistics, and Math scores. And developing model to predict Math scores based on Physics, Science, and Statistics score.
 
